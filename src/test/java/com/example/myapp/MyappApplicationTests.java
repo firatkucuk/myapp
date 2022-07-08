@@ -9,6 +9,6 @@ class MyappApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.assertTrue(1 == 2);
+
 	}
 }
